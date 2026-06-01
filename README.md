@@ -1,3 +1,6 @@
+# This has been deprecated because of the upcoming deprecation of the Fitbit API. I have created a new component  [Google Health Scale Sync](https://github.com/vinodmishra/ha-googlehealthscalesync) which is not a direct replacement as it has no sensor but does give you the sensors to log weight and fat data to Google Health via their new API. 
+
+
 # Fitbit Custom for Home Assistant
 
 
